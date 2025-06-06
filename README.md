@@ -1,4 +1,4 @@
-# MCP-Server
+<img width="1787" alt="Screenshot 2025-05-27 at 1 21 35 PM" src="https://github.com/user-attachments/assets/8c998ada-d16c-44ab-828e-a2c8aef526cc" /># MCP-Server
 
  This project sets up a dual-mode Model Context Protocol (MCP) server that supports both:
 
@@ -33,3 +33,6 @@ dad_joke	  Returns a random dad joke from API
 
 💡 What is MCP?
 Model Context Protocol (MCP) allows custom tools and local models to be integrated into AI assistants like Claude Desktop or LangGraph. You can register Python functions as tools, and they become callable by the assistant when relevant.
+
+<img width="1787" alt="Screenshot 2025-05-27 at 1 21 35 PM" src="https://github.com/user-attachments/assets/4001416f-9a59-4507-91c1-83798c9d17c8" />
+
