@@ -10,7 +10,6 @@
 
 | File        | Purpose                                      |
 |-------------|----------------------------------------------|
-| `app.py`    | FastAPI entrypoint and route `/generate`     |
 | `server.py` | Handles LLM loading, generation, config      |
 
 
