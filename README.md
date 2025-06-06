@@ -35,4 +35,5 @@ dad_joke	  Returns a random dad joke from API
 Model Context Protocol (MCP) allows custom tools and local models to be integrated into AI assistants like Claude Desktop or LangGraph. You can register Python functions as tools, and they become callable by the assistant when relevant.
 
 <img width="1787" alt="Screenshot 2025-05-27 at 1 21 35 PM" src="https://github.com/user-attachments/assets/4001416f-9a59-4507-91c1-83798c9d17c8" />
+<img width="764" alt="Screenshot 2025-06-06 at 12 36 34 PM" src="https://github.com/user-attachments/assets/d1da2cbd-731e-468d-9e82-729967801d07" />
 
