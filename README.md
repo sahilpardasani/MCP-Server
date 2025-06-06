@@ -1,4 +1,4 @@
-<img width="1787" alt="Screenshot 2025-05-27 at 1 21 35 PM" src="https://github.com/user-attachments/assets/8c998ada-d16c-44ab-828e-a2c8aef526cc" /># MCP-Server
+# MCP-Server
 
  This project sets up a dual-mode Model Context Protocol (MCP) server that supports both:
 
